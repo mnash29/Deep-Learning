@@ -4,10 +4,6 @@ import torch.nn as nn
 # import torch.nn.parallel as P
 # import torch.utils.data
 
-# from torch.autograd import Variable
-# from torch import (mm,
-#                    sum)
-
 
 class SAE(nn.Module):
     """Stacked Auto Encoder class.
